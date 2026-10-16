@@ -1,4 +1,4 @@
-# CS2 Automated Data Analysis & Betting Strategy Toolkit
+# High-Performance Data Pipeline & Predictive Strategy Backtesting Engine
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Selenium](https://img.shields.io/badge/Selenium-Undetected%20Chromedriver-green)
