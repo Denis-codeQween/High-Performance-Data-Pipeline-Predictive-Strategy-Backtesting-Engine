@@ -80,8 +80,8 @@ A professional suite of Python scripts designed for automated web scraping, data
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Denis-codeQween/High-Performance-Data-Pipeline-Predictive-Strategy-Backtesting-Engine.git
+   cd High-Performance-Data-Pipeline-Predictive-Strategy-Backtesting-Engine
    ```
 
 2. **Install required dependencies:**
